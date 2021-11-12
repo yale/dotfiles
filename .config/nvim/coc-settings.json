@@ -1,0 +1,6 @@
+{
+  "typescript.format.enabled": true,
+  "javascript.format.enabled": true,
+  "coc.preferences.formatOnSaveFiletypes": ["css", "Markdown", "javascript", "typescript", "javascriptreact", "typescriptreact"]
+}
+
